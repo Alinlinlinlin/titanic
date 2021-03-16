@@ -2616,7 +2616,7 @@ full.shape
 
 
 
-## 3.3 特征选择
+### 3.3 特征选择
 
 
 ```python
@@ -3793,7 +3793,7 @@ model.fit(train_X,train_y)
 
 
 
-### 5.评估模型
+## 5.评估模型
 
 
 ```python
